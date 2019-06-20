@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/homeTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="成都"
+        android:textSize="30sp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="成都，简称蓉，别称“蓉城、锦城”，是四川省省会、副省级市，特大城市，西部战区机关驻地， 国务院确定的国家重要高新技术产业基地、 商贸物流中心和综合交通枢纽，是西部地区重要的中心城市。 2018年，全市下辖20个区（市）县和高新区、天府新区成都直管区，面积14335平方公里，常住人口1633万人，GDP15342.77亿元。" />
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/settingTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="西安"
+        android:textSize="30sp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="西安，古称长安、镐京，是陕西省会、副省级市、关中平原城市群核心城市，曾是古丝绸之路的起点 ，是“一带一路”核心区、中国西部地区重要的中心城市，是国家重要的科研、教育、工业基地 。联合国教科文组织于1981年确定的“世界历史名城” 。地处关中平原中部，北濒渭河，南依秦岭，八水润长安。下辖11区2县并代管西咸新区，总面积10752平方公里，2018年末常住人口1000.37万人，常住人口城镇化率74.01%。全年地区生产总值8349.86亿元 。" />
+
+</LinearLayout>

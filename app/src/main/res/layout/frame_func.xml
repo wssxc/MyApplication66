@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/funcTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="重庆"
+        android:textSize="30sp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="重庆，简称“渝”。为中华人民共和国省级行政区，中西部唯一的直辖市、国家中心城市 、 超大城市、国际大都市，长江上游地区的经济、金融、科创、航运和商贸物流中心，   西部大开发重要的战略支点、“一带一路”和长江经济带重要联结点以及内陆开放高地；既以江城、雾都、桥都著称，又以山城扬名。" />
+
+</LinearLayout>
